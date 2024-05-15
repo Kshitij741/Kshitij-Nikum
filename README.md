@@ -1,1 +1,1 @@
-# Kshitij-Nikum
+# Music Generation using Deep Neural Networks
